@@ -6,11 +6,11 @@ Dikembangkan oleh [Rogue Development](https://rogue-dev-studio.github.io/).
 
 ## Preview
 
-![Thumbnail](github-contents/thumbnail.png)
+![Dashboard](github-contents/thumbnail-dashboard.png)
 
-| Dashboard | Nomor Antrian | Panggilan |
-|-----------|---------------|-----------|
-| ![Dashboard](github-contents/thumbnail-dashboard.png) | ![Nomor](github-contents/preview-nomor-antrian.png) | ![Panggilan](github-contents/preview-panggilan-antrian.png) |
+| Nomor Antrian | Panggilan | Mobile |
+|---------------|-----------|--------|
+| ![Nomor](github-contents/preview-nomor-antrian.png) | ![Panggilan](github-contents/preview-panggilan-antrian.png) | ![Mobile](github-contents/preview-nomor-mobile.png) |
 
 ## Fitur
 
