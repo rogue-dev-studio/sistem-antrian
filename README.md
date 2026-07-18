@@ -4,6 +4,14 @@ Aplikasi antrian loket berbasis **Laravel 11** — pengunjung mengambil nomor, p
 
 Dikembangkan oleh [Rogue Development](https://rogue-dev-studio.github.io/).
 
+## Preview
+
+![Thumbnail](github-contents/thumbnail.png)
+
+| Dashboard | Nomor Antrian | Panggilan |
+|-----------|---------------|-----------|
+| ![Dashboard](github-contents/thumbnail-dashboard.png) | ![Nomor](github-contents/preview-nomor-antrian.png) | ![Panggilan](github-contents/preview-panggilan-antrian.png) |
+
 ## Fitur
 
 - Dashboard pilihan halaman
@@ -24,8 +32,7 @@ Dikembangkan oleh [Rogue Development](https://rogue-dev-studio.github.io/).
 git clone https://github.com/rogue-dev-studio/sistem-antrian.git
 cd sistem-antrian
 composer install
-copy .env.example .env   # Windows
-# cp .env.example .env   # Linux/macOS
+copy .env.example .env
 php artisan key:generate
 ```
 
@@ -51,7 +58,7 @@ php artisan migrate
 php artisan serve
 ```
 
-Buka: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+Buka: http://127.0.0.1:8000
 
 ## Halaman utama
 
